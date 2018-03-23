@@ -24,7 +24,7 @@ namespace Carrera2
             }
             else if (aleat == 5)
             {
-                cantidad = -10;
+                cantidad = -12;
             }
             else if (aleat >= 6 && aleat <= 8)
             {
