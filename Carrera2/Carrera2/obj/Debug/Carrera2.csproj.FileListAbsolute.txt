@@ -1,0 +1,10 @@
+C:\Users\alexb\source\repos\Carrera2\Carrera2\bin\Debug\Carrera2.exe.config
+C:\Users\alexb\source\repos\Carrera2\Carrera2\bin\Debug\Carrera2.exe
+C:\Users\alexb\source\repos\Carrera2\Carrera2\bin\Debug\Carrera2.pdb
+C:\Users\alexb\source\repos\Carrera2\Carrera2\obj\Debug\Carrera2.csprojResolveAssemblyReference.cache
+C:\Users\alexb\source\repos\Carrera2\Carrera2\obj\Debug\Carrera2.Form1.resources
+C:\Users\alexb\source\repos\Carrera2\Carrera2\obj\Debug\Carrera2.Properties.Resources.resources
+C:\Users\alexb\source\repos\Carrera2\Carrera2\obj\Debug\Carrera2.csproj.GenerateResource.Cache
+C:\Users\alexb\source\repos\Carrera2\Carrera2\obj\Debug\Carrera2.csproj.CoreCompileInputs.cache
+C:\Users\alexb\source\repos\Carrera2\Carrera2\obj\Debug\Carrera2.exe
+C:\Users\alexb\source\repos\Carrera2\Carrera2\obj\Debug\Carrera2.pdb
